@@ -1,4 +1,18 @@
-
+%PDF-1.4
+%Óëéá
+1 0 obj
+<</Creator (Chromium)
+/Producer (Skia/PDF m88)
+/CreationDate (D:20210105213101+00'00')
+/ModDate (D:20210105213101+00'00')>>
+endobj
+3 0 obj
+<</ca 1
+/BM /Normal>>
+endobj
+4 0 obj
+<</CA 1
+/ca 1
 /LC 0
 /LJ 0
 /LW 20
